@@ -2,10 +2,10 @@
   "name": "employeereviewsystem",
   "version": "1.0.0",
   "description": "Employee review system webapp is an online platform designed to assist companies in managing their employee performance evaluations. The system allows managers to conduct employee performance reviews, track progress, and provide feedback in a centralized location.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ajay Patil",
